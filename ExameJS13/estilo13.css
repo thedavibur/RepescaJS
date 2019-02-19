@@ -1,0 +1,28 @@
+body {
+  background-color: #A3E4D7;
+}
+
+h2{
+	color:#A04000;
+	margin-top: 1.5em;
+}
+
+h3{
+	color: darkblue;
+}
+
+body{
+	margin: 3cm;
+	font-family: sans-serif;
+}
+
+
+code{
+	font-size: 1.5em;
+}
+
+
+p{
+	color:red;
+	font-size:25px;
+}
